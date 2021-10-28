@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @megarbon
-- 👀 I’m interested in Front end and Back end web development and scripting, i also like videogame programming
+- 👀 I’m interested in Front end and Back end web development, privacy and security.
 - 🌱 I’m currently learning Web Apps development and Software ingenieering
 - 💞️ I’m looking to collaborate on any project related with the things i know
 - 📫 How to reach me on my instagram: @spacioraro
