@@ -24,3 +24,8 @@ const MELAKU = {
     Knowledge: ["Data Structs", "Algorithms", "Statistics", "Lots of Math"],
 }
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/megaarbon/count.svg" />
+</p>
