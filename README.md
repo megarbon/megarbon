@@ -1,6 +1,10 @@
 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/megaarbon/count.svg" />
+</p>
 
 ## Hello 🙏, I'm Melaku Garcia 
 ## Computer Science Student 👨‍💻
@@ -25,7 +29,4 @@ const MELAKU = {
 }
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/megaarbon/count.svg" />
-</p>
+
