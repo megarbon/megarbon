@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## नमस्ते 🙏, I'm Melaku Garcia 
+## Hello 🙏, I'm Melaku Garcia 
 ## Computer Science Student 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/melakugb/?originalSubdomain=es)
