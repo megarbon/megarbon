@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @megarbon
-- 👀 I’m interested in Front end and Back end web development, privacy and security.
-- 🌱 I’m currently learning Web Apps development and Software ingenieering
-- 💞️ I’m looking to collaborate on any project related with the things i know
-- 📫 How to reach me on my instagram: @spacioraro or mail melakugarciabon@gmail.com
 
-<!---
-megarbon/megarbon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+## नमस्ते 🙏, I'm Melaku Garcia 
+## Computer Science Student 👨‍💻
+
+[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/melakugb/?originalSubdomain=es)
+[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:melakugarciabon@gmail.com)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const MELAKU = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "ai", "tech"],
+    technologies:{
+        backEnd: ["jsp", "php", "python"],
+        fronEnd: ["html" "css" "js"],
+        database: ["mongo","mySql"],
+        others: ["R", "C", "Java"]
+    },
+    Knowledge: ["Data Structs", "Algorithms", "Statistics", "Lots of Math"],
+}
+
