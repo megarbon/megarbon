@@ -5,7 +5,7 @@
 ## Hello 🙏, I'm Melaku Garcia 
 ## Computer Science Student 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/melakugb/?originalSubdomain=es)
+[![](https://img.shields.io/badge/LinkedIn-melaku-blue)](https://www.linkedin.com/in/melakugb/?originalSubdomain=es)
 [![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:melakugarciabon@gmail.com)
 
 
