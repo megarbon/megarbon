@@ -20,10 +20,10 @@ const MELAKU = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "ai", "tech"],
     technologies:{
-        backEnd: ["jsp", "php", "python"],
-        fronEnd: ["html" "css" "js"],
+        backEnd: ["jsp", "php", "nodeJs"],
+        fronEnd: ["html" "css" "js" "react"],
         database: ["mongo","mySql"],
-        others: ["R", "C", "Java"]
+        others: ["R" "C" "Java" "Python"]
     },
     Knowledge: ["Data Structs", "Algorithms", "Statistics", "Lots of Math"],
 }
