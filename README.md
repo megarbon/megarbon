@@ -4,7 +4,7 @@
 
 # Hello, I'm Melaku Garcia 👋
 ## Software Engineering Student at
-Universidad Politecnica de Madrid 👨‍💻
+## Universidad Politecnica de Madrid 👨‍💻
 
 <p align="center">
   <a href="https://www.linkedin.com/in/melakugb/?originalSubdomain=es">
