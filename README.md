@@ -2,9 +2,9 @@
   <img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="230">
 </p>
 
-# Hello, I'm Melaku Garcia 👋
-## Software Engineering Student at
-## Universidad Politecnica de Madrid 👨‍💻
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello, I'm Melaku Garcia 👋
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software Engineering Student at
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universidad Politecnica de Madrid 👨‍💻
 
 <p align="center">
   <a href="https://www.linkedin.com/in/melakugb/?originalSubdomain=es">
@@ -32,5 +32,6 @@ const MELAKU = {
     
     Experience: ["Photographer", "Graphic designer", "Video editor", "Photography retail seller"]
 }
+
 
 
