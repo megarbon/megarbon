@@ -1,32 +1,35 @@
-
-
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/megaarbon/count.svg" />
+<p align="center">
+  <img align="right" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="230">
 </p>
 
-## Hello 🙏, I'm Melaku Garcia 
-## Computer Science Student 👨‍💻
+# Hello, I'm Melaku Garcia 👋
+## Software Engineering Student at Universidad Politecnica de Madrid 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-melaku-blue)](https://www.linkedin.com/in/melakugb/?originalSubdomain=es)
-[![](https://img.shields.io/badge/Gmail-melakugarciabon@gmail.com-red)](mailto:melakugarciabon@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/melakugb/?originalSubdomain=es">
+    <img src="https://img.shields.io/badge/LinkedIn-melaku-blue" alt="LinkedIn">
+  </a>
+  <a href="mailto:melakugarciabon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-melakugarciabon%40gmail.com-red" alt="Email">
+  </a>
+</p>
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const MELAKU = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "ai", "tech"],
-    technologies:{
-        backEnd: ["jsp", "php", "nodeJs"],
-        fronEnd: ["html" "css" "js" "react"],
-        database: ["mongo","mySql"],
-        others: ["R" "C" "Java" "Python"]
+    askMeAbout: ["web dev", "ai", "photography"],
+    technologies: {
+        backEnd: ["Node", "PHP", "Java"],
+        fronEnd: ["HTML", "CSS", "React", "Tailwind"],
+        database: ["MongoDB", "MySQL"],
+        others: ["R", "Python", "C", "Assembly"]
     },
-    Knowledge: ["Data Structs", "Algorithms", "Statistics", "Lots of Math"],
+    
+    knowledge: ["Data Structures", "Design Patterns", "Algorithmic Complexity", "Lots of Math"]
+    
+    Experience: ["Photographer", "Graphic designer", "Video editor", "Photography retail seller"]
 }
-
 
 
