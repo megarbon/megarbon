@@ -47,8 +47,8 @@
 ## 👾  What I am interested in learning or improving at
 
 <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />
-&nbsp;<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" /> <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
-&nbsp;<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" /> 
+<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" /> <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
+<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" /> 
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" /> <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
