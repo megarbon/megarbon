@@ -36,10 +36,10 @@ const MELAKU = {
     pronouns: "He" | "Him",
     askMeAbout: ["Web Dev", "Economy", "Photography"],
     technologies: {
-        backEnd: ["Python", "PHP", "Java"],
+        backEnd: ["NodeJs", "PHP", "Java"],
         fronEnd: ["React", "HTML", "CSS", "Tailwind"],
         database: ["MySQL", "MongoDB", "Postgre"],
-        others: ["NodeJs", "Astro", "Vite", "C", "WordPress"]
+        others: ["NodeJs", "Astro", "Vite", "C", "Kotlin"]
     },
     
     knowledge: ["Data Structures", "Design Patterns", "Algorithmic Complexity", "Sw Architecture"]
