@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **melakugarciabon@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bWOWIs8Zpd3Jaa5OFilADRmmEpHFo85G/view?usp=sharing](https://drive.google.com/file/d/1bWOWIs8Zpd3Jaa5OFilADRmmEpHFo85G/view?usp=sharing)
+- 📄 Know about my experiences [Read my CV](https://drive.google.com/file/d/1eDdzy6udYepFZ9esTuZXRKDwMhMW4rJt/view?usp=sharing)
 
 - ⚡ Fun fact **I used to be professional photographer**
 
